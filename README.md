@@ -12,4 +12,5 @@ El objetivo de dicha web / portfolio es la de dar visivilidad a las herramientas
 ##### CONTACT: alejandroperezaranda99@gmail.com
 #
 
+CC BY-NC-SA 3.0 ES Alejandro Pérez
 ![CC](/assets/images/CC-BY-NC-SA-4.0.jpg)
