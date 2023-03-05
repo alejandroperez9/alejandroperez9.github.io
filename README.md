@@ -10,6 +10,3 @@ El objetivo de dicha web / portfolio es la de dar visivilidad a las herramientas
 ##### CONTACT: alejandroperezaranda99@gmail.com
 #
 
-### <img src="https://media.tenor.com/aGwCdl0YdAMAAAAi/astronauta-moon.gif" width="50"> A little more about me...  
-
-
